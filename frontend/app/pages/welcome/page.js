@@ -15,7 +15,7 @@ const Page = () => {
                 Brain MRI Tumor Classification Using Deep Learning
               </p>
 
-              <h1 className="mb-8 font-extrabold text-black text-4xl tracking-wide poppins-regular">
+              <h1 className="mb-8 font-extrabold text-black text-2xl lg:text-4xl tracking-wide poppins-regular">
                 A.I. tool to classify{' '}
                 <span className="text-orange-500">Brain Tumor</span> from MRI
                 images
