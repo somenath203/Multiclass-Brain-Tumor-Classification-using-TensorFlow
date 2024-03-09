@@ -4,3 +4,4 @@ inceptionv3_model
 mobilenetv3_model
 resnet101_model
 vgg19_model
+ensemble_model
