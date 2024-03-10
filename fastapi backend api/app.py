@@ -22,7 +22,7 @@ app.add_middleware(
 )
 
 
-model = load_model('resnet101_model')
+model = load_model('resnet101_model.h5')
 
 
 class_names = ['glioma', 'meningioma', 'no tumor', 'pituitary']
@@ -32,7 +32,7 @@ class_names = ['glioma', 'meningioma', 'no tumor', 'pituitary']
 def welcome():
     return {
         'success': True,
-        'message': 'server of "brain tumor classification using 10 classes" is up and running successfully.'
+        'message': 'server of "brain tumor classification using 4 classes" is up and running successfully.'
     }
 
 

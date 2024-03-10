@@ -1,7 +1,4 @@
 brain_dataset
-cnnfromscratch_model
-inceptionv3_model
-mobilenetv3_model
-resnet101_model
-vgg19_model
-ensemble_model
+cnnfromscratch_model.h5
+resnet101_model.h5
+vgg19_model.h5
