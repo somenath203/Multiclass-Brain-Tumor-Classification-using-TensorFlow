@@ -16,7 +16,7 @@ The dataset used in this project is taken from kaggle: https://www.kaggle.com/da
 5) MobileNetV3
 6) Ensemble Learning Model created based on our own CNN model and VGG19
 
-**Out of the all the above models, resnet101 proved to be the most effective with a training accuracy of around 95.99% and testing accuracy of around 92.41%**
+**Out of the all the above models, resnet101 proved to be the most effective one with a training accuracy of around 95.99% and testing accuracy of around 92.41%**
 
 ## About the web application of the deep learning model
 
