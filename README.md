@@ -7,7 +7,7 @@ This is a project which uses various deep learning algorithm to classify the typ
 
 The dataset used in this project is taken from kaggle: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
-## Models Used in this project
+## Models used in this project
 
 1) Our own CNN model
 2) VGG19
