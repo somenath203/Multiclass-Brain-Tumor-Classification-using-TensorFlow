@@ -7,7 +7,7 @@ const Navbar = () => {
           className="inline-flex items-center gap-2.5 font-bold text-black"
           aria-label="logo"
         >
-          <span className="text-2xl lg:text-4xl">
+          <span className="text-3xl lg:text-4xl">
             <i className="ri-brain-fill text-orange-500"></i>
           </span>
           <span className="text-xl lg:text-2xl tracking-wide">
