@@ -25,8 +25,8 @@ The deep learning model of this project is connected with a frontend webapp crea
 ## Links
 
 1) Live Preview: https://multiclass-brain-tumor-classification.vercel.app/
-2) Backend FastAPI link of the model: https://som11-multi-class-brain-tumor-classification.hf.space/
-3) Swagger documentation of the FastAPI of the deep learning model: https://som11-multi-class-brain-tumor-classification.hf.space/docs
+2) Backend FastAPI link of the model: https://som11-multiclass-brain-tumor-classification.hf.space/
+3) Swagger documentation of the FastAPI of the deep learning model: https://som11-multiclass-brain-tumor-classification.hf.space/docs
 
 ## Warning
 While the model of this project can classify brain tumors correctly, but in some cases, the model may misclassify tumors or fail to detect them altogether, therefore, it is strongly advised not to rely solely on the output of this model.
