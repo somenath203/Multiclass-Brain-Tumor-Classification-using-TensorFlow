@@ -1,7 +1,7 @@
 # Multiclass Brain Tumor Classification using TensorFlow
 
 ## Introduction
-This is a project which uses various deep learning algorithm to classify the type of tumor present in the brain MRI image. The model is only able to detect three type of tumors as of now i.e. **glioma**, **meningioma** and **pituitary**.
+This is a project which uses deep learning algorithm to classify the type of tumor present in the brain MRI image. The model is only able to detect three type of tumors as of now i.e. **glioma**, **meningioma** and **pituitary**.
 
 ## Dataset used in this project
 
