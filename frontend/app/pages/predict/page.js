@@ -39,7 +39,7 @@ const Page = () => {
 
       setLoading(false);
 
-      if (data?.predicted_result === 'no  tumor') {
+      if (data?.predicted_result === 'no tumor') {
         MySwal.fire({
           html: `
             <img src="${URL.createObjectURL(
